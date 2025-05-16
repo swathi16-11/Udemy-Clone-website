@@ -25,6 +25,7 @@ Hover Effects: Interactive elements enhance user experience.
 Footer: Contains additional links and information, consistent across pages.
 
 **🛠️ Technologies Used**
+
 **HTML5:** For structuring the content.
 
 **CSS3:** For styling and layout.
