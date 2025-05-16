@@ -29,4 +29,4 @@ Footer: Contains additional links and information, consistent across pages.
 
 **CSS3:** For styling and layout.
 
-**Font Awesome: **For icons (if used).
+Font Awesome:For icons (if used).
